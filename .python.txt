@@ -6,3 +6,6 @@ let me look at this
 
 yes you may look at the note 
 allowerd
+
+allowed
+not allowerede
