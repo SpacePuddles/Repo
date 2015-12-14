@@ -1,18 +1,26 @@
 
+  public int[] encrypting = this; 
+  public static String example = "You can't touch this."; 
+  public String encrypted = null;
+  
   public class ciphering(){
-    encrypt()
-    decrypt() 
+    encrypt();
+    decrypt();
+    
+    log.Println(example + " becomes: " + encrypting); 
   }
   
   public class encyrpt(int shift){
-      ceasarian(shift);  
+      createceasarianalphabet(shift); 
+      encrypted = ceasarian(string);  
   }
   
   public class decrypt(){
+
   }
   
   
-  public class createceasarianalphabet(int shift){
+  public class void createceasarianalphabet(int shift){
     Char[] alphabet = null; 
     Char[] encrypting = null;
     for(int i = 0; i < 26; i ++){alphabet[i] = Char(201 + i);}
@@ -20,12 +28,23 @@
     encrypting[item]=alphabet[i]
     };
     
-  public class createceasarianalphabet(int shift){
-    Char[] alphabet = null; 
-    Char[] encrypting = null;
-    for(int i = 0; i < 26; i ++){alphabet[i] = Char(201 + i);}
-    for(item:encrypting){for(int i=shift; 0<= i<26 ;i++){
-    encrypting[item]=alphabet[i]
+  public class String ceasarian(String string);{
+    alphabet =  for(int i = 0; i < 26; i ++){alphabet[i] = Char(201 + i);};
+    encryption = this; 
+    String [] stringlist = null;
+    for(int i = 0; i < string.length; i++){stringlist[i] = ignorecaps.(string(i, i+1))}; 
+    for(int x = 0; x < alphabet.length; i++){
+      for(int y = 0; y < stringlist.length; y++){
+        if(stringlist[y] == alphabet[x]){stringlist[y] = encrypting[x]};
+        }
+      }
+      string = for(item:stringlist){string += item); 
+      return string; 
+    }
+    
+    
+  public class createvigneresquarealphabet(int shift){
+  
     };
     
   } 
