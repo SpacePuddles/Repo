@@ -1,5 +1,31 @@
-this is a cool note
-look at this cool note
 
-I HAVE CHANGED THE NOTE
-let me look at this
+  public class ciphering(){
+    encrypt()
+    decrypt() 
+  }
+  
+  public class encyrpt(int shift){
+      ceasarian(shift);  
+  }
+  
+  public class decrypt(){
+  }
+  
+  
+  public class createceasarianalphabet(int shift){
+    Char[] alphabet = null; 
+    Char[] encrypting = null;
+    for(int i = 0; i < 26; i ++){alphabet[i] = Char(201 + i);}
+    for(item:encrypting){for(int i=shift; 0<= i<26 ;i++){
+    encrypting[item]=alphabet[i]
+    };
+    
+  public class createceasarianalphabet(int shift){
+    Char[] alphabet = null; 
+    Char[] encrypting = null;
+    for(int i = 0; i < 26; i ++){alphabet[i] = Char(201 + i);}
+    for(item:encrypting){for(int i=shift; 0<= i<26 ;i++){
+    encrypting[item]=alphabet[i]
+    };
+    
+  } 
