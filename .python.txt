@@ -15,11 +15,6 @@
       encrypted = ceasarian(string);  
   }
   
-  public class decrypt(){
-
-  }
-  
-  
   public class void createceasarianalphabet(int shift){
     Char[] alphabet = null; 
     Char[] encrypting = null;
@@ -41,10 +36,3 @@
       string = for(item:stringlist){string += item); 
       return string; 
     }
-    
-    
-  public class createvigneresquarealphabet(int shift){
-  
-    };
-    
-  } 
