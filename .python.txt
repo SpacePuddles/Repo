@@ -1,5 +1,80 @@
-this is a cool note
-look at this cool note
+for(int i = item; i < String.length(); i++){
+        try{
+        log.println(String);
+        }
 
-I HAVE CHANGED THE NOTE
+  import android.app.interoff; 
+  public int[] encrypting = this; 
+  public static String example = "You can't touch this."; 
+  public String encrypted = null;
+  
+  public static main publicclass args(String[]){
+  
+  public class ciphering(){
+    encrypt();
+    decrypt();
+    
+    log.Println(example + " becomes: " + encrypting); 
+ 	while(encrypt == true){
+	searching(string given); 
+	}
+  }
+  
+  public class encyrpt(int shift){
+      createceasarianalphabet(shift); 
+      encrypted = ceasarian(string);  
+  }
 
+  public class void dayends(int straighttohell){
+	return regret;
+  } 
+  
+  public class void createceasarianalphabet(int shift){
+    for(int i = item; i < String.length(); i++){
+        try{
+        log.println(String);
+        }
+    Char[] alphabet = null; 
+    Char[] encrypting = null;
+    for(int i = 0; i < 26; i ++){alphabet[i] = Char(201 + i);}
+    for(item:encrypting){for(int i=shift; 0<= i<26 ;i++){
+    encrypting[item]=alphabet[i]
+    };
+    
+  public class String ceasarian(String string);{
+    alphabet =  for(int i = 0; i < 26; i ++){alphabet[i] = Char(201 + i);};
+    encryption = this; 
+    String [] stringlist = null;
+    for(int i = 0; i < string.length; i++){stringlist[i] = ignorecaps.(string(i, i+1))}; 
+    for(int x = 0; x < alphabet.length; i++){
+      for(int y = 0; y < stringlist.length; y++){
+        if(stringlist[y] == alphabet[x]){stringlist[y] = encrypting[x]};
+        }
+      }
+      string = for(item:stringlist){string += item); 
+      return string;
+      if(String.length != 0) 
+      return String;
+      }
+      
+    }
+    
+    public class void atbash(){
+      String[] death = null; 
+      for(item:alphabet){
+        if(item.length != 0){
+        try{
+        death[0] = item.substring(0,1); 
+        }
+      }
+    } 
+   
+
+    public class void searching(String given){
+	
+	}
+    } 
+
+    
+
+    /* this is the end of the runner class */ 
