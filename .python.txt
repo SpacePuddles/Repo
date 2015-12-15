@@ -40,3 +40,15 @@
       return String; 
       
     }
+    
+    public class atbash(){
+      String[] death = null; 
+      for(item:alphabet){
+        if(item.length != 0){
+        try{
+        death[0] = item.substring(0,1); 
+        }
+      }
+    } 
+    
+    
